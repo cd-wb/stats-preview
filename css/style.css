@@ -45,9 +45,9 @@ body{
 @media (min-width:1000px){
     .card-content{
         text-align: start;
-        margin: 2rem;
+        margin: 3rem;
         display: grid;
-        gap: 1rem;
+        /* gap: 1rem; */
         max-width: 400px;
     }
     .content-descreption, .content-title{
