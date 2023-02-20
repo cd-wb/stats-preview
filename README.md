@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/cd-wb/stats-preview)
+- Live Site URL: [live site URL](https://cd-wb.github.io/stats-preview/)
 
 ## My process
 
