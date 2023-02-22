@@ -74,4 +74,4 @@ img{
 
 ## Author
 
-- Frontend Mentor - [codeWeb](https://www.frontendmentor.io/profile/cd-Wb)
+- Frontend Mentor - [Abdessamad](https://www.frontendmentor.io/profile/cd-Wb)
